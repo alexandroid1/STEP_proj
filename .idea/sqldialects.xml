@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="SqlDialectMappings">
-    <file url="file://$PROJECT_DIR$" dialect="DB2" />
-    <file url="file://$PROJECT_DIR$/web/sql/capwd_obj.OECATEGS.sql" dialect="DB2" />
-    <file url="file://$PROJECT_DIR$/web/sql/capwd_obj.OEPRODUCTS.sql" dialect="DB2" />
-    <file url="file://$PROJECT_DIR$/web/sql/capwd_obj_oelogins.sql" dialect="DB2" />
-  </component>
-</project>
