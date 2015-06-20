@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2609804150">
+    <data-source source="LOCAL" name="DB2 - Capnet400@10.69.52.3" uuid="5ce5ef5b-b8d5-4114-8cb1-83251e601c4b">
+      <driver-ref>db2.jtopen</driver-ref>
+      <jdbc-driver>com.ibm.as400.access.AS400JDBCDriver</jdbc-driver>
+      <jdbc-url>jdbc:as400://10.69.52.3:446/Capnet400</jdbc-url>
+      <libraries />
+    </data-source>
+  </component>
+</project>
